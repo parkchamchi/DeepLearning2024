@@ -2,4 +2,4 @@
 
 - [dl1.ipynb](dl1.ipynb)
 - [dl2.ipynb](dl2.ipynb)
-- [dl3.ipynb](dl3.ipynb) (WIP)
+- [dl3.ipynb](dl3.ipynb)
